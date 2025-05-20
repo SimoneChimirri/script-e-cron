@@ -16,7 +16,7 @@ Conservazione automatica solo degli ultimi 7 backup (i più vecchi vengono elimi
 Pianificazione automatica con cron.
 
 - Incluso nel codice:
-- 
+
 permessi di scrittura su /opt/backup;
 
 cron attivo e funzionante;
